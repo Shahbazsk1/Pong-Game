@@ -1,10 +1,10 @@
-# Pong-Game
+# 🕹️ Pong-Game
 
 <h2>
   <p>This project is a recreation of the classic Pong game using Python's built-in turtle module, encapsulated with object-oriented programming (OOP).<br>
 Players control paddles to bounce a ball back and forth. The goal is to prevent the ball from passing your side while trying to score on the opponent.</p>
 </h2>
-<h3>🕹️ Pong Game – Overview</h3>
+<h3> Game – Overview</h3>
 <h4>📁 Project Structure</h4>
 <ul>
   <li>The game is split into 4 main components:
