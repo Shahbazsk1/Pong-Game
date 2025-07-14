@@ -64,10 +64,12 @@ Players control paddles to bounce a ball back and forth. The goal is to prevent 
   </li>
 </ul>
 <h4>📦 Modules Used</h4>
-<ul>Built-in Python Modules:
-  <ul>
-    <li>time :	Controls speed of game loop with time.sleep()</li>
-  </ul>
+<ul>
+  <li>Built-in Python Modules:
+    <ul>
+      <li>time :	Controls speed of game loop with time.sleep()</li>
+    </ul>
+  </li>
 </ul>
 <ul>
   <li>🐢 turtle Module:
